@@ -11,6 +11,6 @@
 </head>
 <body>
 <BODY BGCOLOR="#00004d">
-<h1 align="center">Welcome Gray-Matter Technologies.</h1>
+<h1 color="white" align="center">Welcome Gray-Matter Technologies.</h1>
 </body>
 </html>
