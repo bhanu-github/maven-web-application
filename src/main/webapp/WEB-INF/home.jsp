@@ -7,8 +7,7 @@
 <head>
 <spring:url value="/resources/images/mithunlogo.jpg" var="mithunlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="${mithunlogo}" rel="icon">
+<title>GrayMatter</title>
 </head>
 <body>
 <h1 align="center">Welcome Gray-Matter Technologies.</h1>
