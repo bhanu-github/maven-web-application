@@ -10,6 +10,6 @@
 <title>GrayMatter</title>
 </head>
 <body>
-<h1 align="center">Welcome Gray-Matter Technologies.</h1>
+<h1 align="center">Welcome Gray Matter Technologies.</h1>
 </body>
 </html>
