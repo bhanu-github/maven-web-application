@@ -12,7 +12,7 @@
 <body>
 <BODY BGCOLOR="#00004d">
 <font color="white">
-<h1 align="center"> ***Gray-Matter Technologies***i</h1>
+<h1 align="center"> ***Gray-Matter Technologies***</h1>
 <marquee> This is a test page for DevOps practice </marquee>
 </font>
 </body>
