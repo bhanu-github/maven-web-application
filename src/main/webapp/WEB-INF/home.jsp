@@ -11,6 +11,10 @@
 </head>
 <body>
 <BODY BGCOLOR="#00004d">
-<h1 color="white" align="center">Welcome Gray-Matter Technologies.</h1>
+<font color="white">
+<h1 align="center"> ***Gray-Matter Technologies***</font></h1>
+<marquee> This is a test page for DevOps practice </marquee>
 </body>
 </html>
+
+
